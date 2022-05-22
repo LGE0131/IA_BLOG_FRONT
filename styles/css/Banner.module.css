@@ -8,14 +8,13 @@
 }
 .container .bannerImg1 {
   position: absolute;
-  top: 50%;
-  left: 15%;
-  transform: translate(-10%, -50%);
+  top: 20%;
+  left: 9%;
 }
 .container .bannerImg2 {
   position: absolute;
-  bottom: -35%;
-  right: 10%;
+  top: 9%;
+  right: 9%;
 }
 
 /*# sourceMappingURL=banner.module.css.map */

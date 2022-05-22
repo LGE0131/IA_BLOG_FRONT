@@ -6,10 +6,10 @@ const Banner = () => {
   return (
     <ul className={styles.container}>
       <li className={styles.bannerImg1}>
-        <Image src="/last.png" alt="explanation" width={960} height={480} />
+        <Image src="/last.png" alt="explanation" width={1080} height={540} />
       </li>
       <li className={styles.bannerImg2}>
-        <Image src="/light.jpg" alt="explanation" width={360} height={500} />
+        <Image src="/light.jpg" alt="explanation" width={300} height={400} />
       </li>
     </ul>
   );
