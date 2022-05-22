@@ -1,3 +1,7 @@
+.container {
+  width: 100vw;
+  height: 90vh;
+  background-color: #ffffe4;
+}
 
-
-/*# sourceMappingURL=Banner.module.css.map */
+/*# sourceMappingURL=banner.module.css.map */
