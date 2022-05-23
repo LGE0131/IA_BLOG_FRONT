@@ -6,7 +6,7 @@ const Banner = () => {
   return (
     <ul className={styles.container}>
       <li className={styles.bannerImg1}>
-        <Image src="/last.png" alt="explanation" width={1080} height={540} />
+        <Image src="/last.png" alt="explanation" width={1200} height={600} />
       </li>
       <li className={styles.bannerImg2}>
         <Image src="/light.jpg" alt="explanation" width={300} height={400} />

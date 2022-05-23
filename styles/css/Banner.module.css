@@ -8,13 +8,13 @@
 }
 .container .bannerImg1 {
   position: absolute;
-  top: 20%;
-  left: 9%;
+  top: 15%;
+  left: 7%;
 }
 .container .bannerImg2 {
   position: absolute;
-  top: 9%;
-  right: 9%;
+  top: 10%;
+  right: 7%;
 }
 
 /*# sourceMappingURL=banner.module.css.map */
