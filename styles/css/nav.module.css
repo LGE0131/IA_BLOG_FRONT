@@ -1,4 +1,5 @@
 .blackContainer {
+  transition: 0.5s;
   z-index: 99;
   position: fixed;
   top: 0;
@@ -53,6 +54,7 @@
 }
 
 .whiteContainer {
+  transition: 0.5s;
   z-index: 99;
   position: fixed;
   top: 0;

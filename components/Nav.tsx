@@ -7,7 +7,7 @@ import Image from "next/image";
 const Nav = () => {
   const [show, setShow] = useState<boolean>(false);
   const windowY = () => {
-    if (window.scrollY > 150) {
+    if (window.scrollY > 2200) {
       setShow(true);
     } else {
       setShow(false);
